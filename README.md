@@ -1,1 +1,1 @@
-"# mnist-classifiers" 
+Making mnist classifiers with numpy.
