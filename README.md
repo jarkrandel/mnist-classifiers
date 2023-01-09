@@ -1,1 +1,2 @@
-Making mnist classifiers with numpy.
+ # Training Nets
+ I'm training neural nets for fun!
